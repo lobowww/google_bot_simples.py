@@ -1,0 +1,114 @@
+Welcome to Python.org ; https://www.python.org/
+Welcome to Python.org ; https://www.python.org/
+ ; https://harve.com.br/blog/programacao-python-blog/python-para-que-serve-top-5-utilidades/
+ ; https://python.org.br/introducao/
+ ; https://pt.wikihow.com/Come%C3%A7ar-a-Programar-em-Python
+ ; https://www.treinaweb.com.br/blog/como-comecar-com-python
+Python Brasil ; https://python.org.br/
+Python – Wikipédia, a enciclopédia livre ; https://pt.wikipedia.org/wiki/Python
+Guia Completo de Python - DevMedia ; https://www.devmedia.com.br/guia/python/37024
+O que é Python? [Guia para iniciantes] - Tecnoblog ; https://tecnoblog.net/responde/o-que-e-python-guia-para-iniciantes/
+ ; https://www.voitto.com.br/blog/artigo/o-que-e-ide-python
+ ; https://www.alura.com.br/artigos/listas-no-python
+ ; https://blog.revelo.com.br/programador-python-carreira-salario-e-vagas/?amp
+ ; https://pt.wikipedia.org/wiki/Python
+Python - Visual Studio Marketplace ; https://marketplace.visualstudio.com/items?itemName=ms-python.python
+Python Tutorial - W3Schools ; https://www.w3schools.com/python/
+Programming for Everybody (Getting Started with Python) ; https://www.coursera.org/learn/python
+PyCharm: the Python IDE for Professional Developers by ... ; https://www.jetbrains.com/pycharm/
+MicroPython - Python for microcontrollers ; https://micropython.org/
+Python Courses & Tutorials | Codecademy ; https://www.codecademy.com/catalog/language/python
+Free Intro to Python Course | Udacity ; https://www.udacity.com/course/introduction-to-python--ud1110
+Aprendendo Python ; https://python-guide-pt-br.readthedocs.io/pt_BR/latest/intro/learning.html
+Python Engenharia: Home ; http://www.pythonengenharia.com.br/
+Learn Python Tutorials - Kaggle ; https://www.kaggle.com/learn/python
+Python 3 - Mundo 1 [40 Horas] - Curso em Vídeo ; https://www.cursoemvideo.com/curso/python-3-mundo-1/
+Python (programming language) - Amazon ; https://www.amazon.com.br/Python-programming-language-application-development/dp/1234592436
+Python para que serve: top 5 utilidades - Blog - Harve ; https://harve.com.br/blog/programacao-python-blog/python-para-que-serve-top-5-utilidades/
+Visualize Python, Java, JavaScript, C, C++, Ruby code ... ; https://pythontutor.com/visualize.html
+O que é Python, para que serve e por que aprender? - Kenzie ... ; https://kenzie.com.br/blog/o-que-e-python/
+Python Tutorial - Tutorialspoint ; https://www.tutorialspoint.com/python/index.htm
+Introduction to Python Course | DataCamp ; https://www.datacamp.com/courses/intro-to-python-for-data-science
+Download & Install Python - ActiveState ; https://www.activestate.com/products/python/
+Python Courses, Training, and Tutorials - Udemy ; https://www.udemy.com/topic/python/
+Individual Edition - Anaconda ; https://www.anaconda.com/products/individual
+Real Python: Python Tutorials ; https://realpython.com/
+Introdução ao Python - Parte 1 - Linha de Código ; http://www.linhadecodigo.com.br/artigo/556/introducao-ao-python-parte-1.aspx
+Python Fundamentos Para Análise de Dados 3.0 - Data ... ; https://www.datascienceacademy.com.br/course/python-fundamentos
+Python Institute | Python Training and Certification Programs ; https://pythoninstitute.org/
+Python é tendência: mercado, salários e vantagens em ... ; https://www.digitalhouse.com/br/blog/por-que-aprender-python
+Python Programming Language - GeeksforGeeks ; https://www.geeksforgeeks.org/python-programming-language/
+scikit-learn: machine learning in Python — scikit-learn 1.0.2 ... ; https://scikit-learn.org/
+Python on Google App Engine ; https://cloud.google.com/appengine/docs/python
+PyPI · The Python Package Index ; https://pypi.org/
+python/cpython: The Python programming language - GitHub ; https://github.com/python/cpython
+pandas - Python Data Analysis Library ; https://pandas.pydata.org/
+Core Python | Pluralsight ; https://www.pluralsight.com/paths/core-python
+What is Python? | Opensource.com ; https://opensource.com/resources/python
+Python Mode for Processing ; https://py.processing.org/
+Design GUI with Python | Python Bindings for Qt ; https://www.qt.io/qt-for-python
+Fatiando uma string (slicing strings) em Python - Blog Gran ... ; https://blog.grancursosonline.com.br/fatiando-uma-string-slicing-strings-em-python/
+Learn Python Programming - Programiz ; https://www.programiz.com/python-programming
+Introdução à Computação com Python - Panda ; https://panda.ime.usp.br/cc110/static/cc110/01-intro.html
+Introduction to Python - Learn | Microsoft Docs ; https://docs.microsoft.com/en-us/learn/modules/intro-to-python/
+Book - PY4E - Python for Everybody ; https://www.py4e.com/book
+Introduction to Computer Science and Programming in Python ; https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
+Scientific Computing with Python Certification - freeCodeCamp ; https://www.freecodecamp.org/learn/scientific-computing-with-python
+Python Elimination Program - | South Florida Water ... ; https://www.sfwmd.gov/our-work/python-program
+Think Python - Green Tea Press ; https://greenteapress.com/wp/think-python/
+The Twilio Python Helper Library ; https://www.twilio.com/docs/libraries/python
+Desenvolvimento Rápido de Aplicações em Python - Pedro ... ; https://phbraga.com/dev-python/
+Python Programming Tutorials ; https://pythonprogramming.net/
+Full Stack Python ; https://www.fullstackpython.com/
+INTRODUÇÃO À PROGRAMAÇÃO COM PYTHON - IFSP ; http://antigo.scl.ifsp.edu.br/portal/arquivos/2016.05.04_Apostila_Python_-_PET_ADS_S%C3%A3o_Carlos.pdf
+Learn Python - Free Interactive Python Tutorial ; https://www.learnpython.org/
+Project Jupyter | Home ; https://jupyter.org/
+Django: The web framework for perfectionists with deadlines ; https://www.djangoproject.com/
+Python Sul 2021 ; https://pythonsul.org/
+Plotly Python Graphing Library ; https://plotly.com/python/
+Python (mythology) - Wikipedia ; https://en.wikipedia.org/wiki/Python_(mythology)
+Code Style - The Hitchhiker's Guide to Python ; https://docs.python-guide.org/writing/style/
+Python Numpy Tutorial (with Jupyter and Colab) - CS231n ... ; https://cs231n.github.io/python-numpy-tutorial/
+Matplotlib — Visualization with Python ; https://matplotlib.org/
+A Linguagem de Programação Python - PUCRS ; https://www.inf.pucrs.br/flash/progbio/aulas/seq/build/progbio/Python.html
+SciPy ; https://scipy.org/
+Learn Python Tutorial - javatpoint ; https://www.javatpoint.com/python-tutorial
+Python - Reddit ; https://www.reddit.com/r/Python/
+PyLadies – Women Who Love Coding in Python ; https://pyladies.com/
+Intel® Distribution for Python ; https://www.intel.com/content/www/us/en/developer/tools/oneapi/distribution-for-python.html
+Learn Python Core | Sololearn ; https://www.sololearn.com/learning/1073
+python | snake group | Britannica ; https://www.britannica.com/animal/python-snake-group
+Solve Python | HackerRank ; https://www.hackerrank.com/domains/python
+What is Python and what is it for? - Olhar Digital ; https://olhardigital.com.br/en/2021/10/04/tira-duvidas/o-que-e-para-que-serve-o-python/
+Unofficial Windows Binaries for Python Extension Packages ; https://www.lfd.uci.edu/~gohlke/pythonlibs/
+Build your Python image | Docker Documentation ; https://docs.docker.com/language/python/build-images/
+Specifying a Python Runtime | Heroku Dev Center ; https://devcenter.heroku.com/articles/python-runtimes
+How does Python work? - Towards Data Science ; https://towardsdatascience.com/how-does-python-work-6f21fd197888
+Python Tutorial - Free Course for Beginners to Learn Python ; https://jobtensor.com/Tutorial/Python/en/Introduction
+Python Software Foundation (@ThePSF) / Twitter ; https://twitter.com/thepsf
+Automate the Boring Stuff with Python ; https://automatetheboringstuff.com/
+PySpark 3.2.0 documentation - Apache Spark ; https://spark.apache.org/docs/latest/api/python/index.html
+What is the Python programming language? - WhatIs.com ; https://whatis.techtarget.com/definition/Python
+Google's Python Class | Python Education ; https://developers.google.com/edu/python
+A Byte of Python ; https://python.swaroopch.com/
+Python programming: We want to make the language twice as ... ; https://www.zdnet.com/article/python-programming-we-want-to-make-the-language-twice-as-fast-says-its-creator/
+Python Tutorial for Beginners: Learn Programming Basics [PDF] ; https://www.guru99.com/python-tutorials.html
+Python Programming - Wikibooks, open books for an open world ; https://en.wikibooks.org/wiki/Python_Programming
+Learning Python, 5th Edition [Book] - O'Reilly Media ; https://www.oreilly.com/library/view/learning-python-5th/9781449355722/
+VPython ; https://vpython.org/
+Beginning Game Programming for Teens with Python ; https://www.raywenderlich.com/2795-beginning-game-programming-for-teens-with-python
+Python Definition & Meaning - Merriam-Webster ; https://www.merriam-webster.com/dictionary/python
+Time to shed Python 2 - NCSC.GOV.UK ; https://www.ncsc.gov.uk/blog-post/time-to-shed-python-2
+Python Online Compiler & Interpreter - Replit ; https://replit.com/languages/python3
+Learn Python Programming - Online Python Courses ; https://www.futurelearn.com/subjects/it-and-computer-science-courses/python
+Python ; https://pro.arcgis.com/en/pro-app/2.7/arcpy/get-started/installing-python-for-arcgis-pro.htm
+(Ajuda) jupyter selenium python [fechada] - Stack Overflow ; https://pt.stackoverflow.com/questions/538636/ajuda-jupyter-selenium-python
+An Introduction to Mocking in Python - Toptal ; https://www.toptal.com/python/an-introduction-to-mocking-in-python
+Installation - pip documentation v21.3.1 ; https://pip.pypa.io/en/stable/installation/
+Speed Up Python Code · Async Blog - LoginRadius ; https://www.loginradius.com/blog/async/speed-up-python-code/
+Raise Your Business's Potential by Learning Python ; https://www.entrepreneur.com/article/403981
+Prevent Python dependency confusion attacks with Thoth ; https://developers.redhat.com/articles/2021/12/21/prevent-python-dependency-confusion-attacks-thoth
+Como Fazer um Programa de Calculadora Simples no Python 3 ; https://www.digitalocean.com/community/tutorials/como-fazer-um-programa-de-calculadora-simples-no-python-3-pt
+Application Developer - Python - 4008634 Copy 01 Copy 07 ; https://www.accenture.com/us-en/careers/jobdetails?id=9945674_en&title=Application+Developer+-+Python+-+4008634+Copy+01+Copy+07
+Pixel art python ; https://intranet.originalprecatorios.com.br/nb5g/pixel-art-python.html
+Python vs C++ - Medium ; https://medium.com/geekculture/python-vs-c-5bd7057e86c2
